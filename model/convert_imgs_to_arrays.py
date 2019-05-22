@@ -6,6 +6,7 @@ __author__ = 'Tony Beltramelli - www.tonybeltramelli.com'
 import os
 import sys
 import shutil
+import numpy as np
 
 from classes.Utils import *
 from classes.model.Config import *
